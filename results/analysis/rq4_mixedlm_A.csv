@@ -1,0 +1,49 @@
+,Coef.,Std.Err.,z,P>|z|,[0.025,0.975]
+Intercept,-9.288,0.729,-12.744,0.000,-10.717,-7.860
+"C(label, Treatment(""RandomSearch""))[T.BRA]",5.409,0.748,7.227,0.000,3.942,6.876
+"C(label, Treatment(""RandomSearch""))[T.DE]",-1.368,0.748,-1.828,0.068,-2.835,0.099
+"C(label, Treatment(""RandomSearch""))[T.GOA]",0.572,0.748,0.765,0.444,-0.895,2.039
+"C(label, Treatment(""RandomSearch""))[T.HHO]",0.380,0.748,0.508,0.612,-1.087,1.847
+"C(label, Treatment(""RandomSearch""))[T.ILS]",0.561,0.748,0.750,0.453,-0.906,2.028
+"C(label, Treatment(""RandomSearch""))[T.PSO]",-0.624,0.748,-0.834,0.404,-2.091,0.843
+"C(label, Treatment(""RandomSearch""))[T.RA]",2.193,0.748,2.929,0.003,0.726,3.660
+"C(label, Treatment(""RandomSearch""))[T.RKGA]",-0.582,0.748,-0.777,0.437,-2.049,0.885
+C(levels)[T.3],0.612,0.305,2.008,0.045,0.015,1.210
+C(levels)[T.continuous],0.837,0.305,2.745,0.006,0.239,1.434
+C(kind)[T.rect],-0.440,0.194,-2.266,0.023,-0.821,-0.060
+C(kind)[T.scatter],0.098,0.194,0.504,0.614,-0.283,0.479
+"C(label, Treatment(""RandomSearch""))[T.BRA]:C(levels)[T.3]",-0.690,0.317,-2.178,0.029,-1.311,-0.069
+"C(label, Treatment(""RandomSearch""))[T.DE]:C(levels)[T.3]",0.460,0.317,1.452,0.146,-0.161,1.081
+"C(label, Treatment(""RandomSearch""))[T.GOA]:C(levels)[T.3]",0.180,0.317,0.568,0.570,-0.441,0.801
+"C(label, Treatment(""RandomSearch""))[T.HHO]:C(levels)[T.3]",0.126,0.317,0.399,0.690,-0.495,0.747
+"C(label, Treatment(""RandomSearch""))[T.ILS]:C(levels)[T.3]",0.650,0.317,2.051,0.040,0.029,1.271
+"C(label, Treatment(""RandomSearch""))[T.PSO]:C(levels)[T.3]",0.378,0.317,1.192,0.233,-0.243,0.999
+"C(label, Treatment(""RandomSearch""))[T.RA]:C(levels)[T.3]",-0.197,0.317,-0.622,0.534,-0.818,0.424
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:C(levels)[T.3]",0.747,0.317,2.357,0.018,0.126,1.368
+"C(label, Treatment(""RandomSearch""))[T.BRA]:C(levels)[T.continuous]",0.194,0.317,0.613,0.540,-0.427,0.815
+"C(label, Treatment(""RandomSearch""))[T.DE]:C(levels)[T.continuous]",0.426,0.317,1.345,0.179,-0.195,1.047
+"C(label, Treatment(""RandomSearch""))[T.GOA]:C(levels)[T.continuous]",0.290,0.317,0.916,0.360,-0.331,0.911
+"C(label, Treatment(""RandomSearch""))[T.HHO]:C(levels)[T.continuous]",0.219,0.317,0.690,0.490,-0.402,0.840
+"C(label, Treatment(""RandomSearch""))[T.ILS]:C(levels)[T.continuous]",1.441,0.317,4.549,0.000,0.820,2.062
+"C(label, Treatment(""RandomSearch""))[T.PSO]:C(levels)[T.continuous]",0.361,0.317,1.138,0.255,-0.260,0.982
+"C(label, Treatment(""RandomSearch""))[T.RA]:C(levels)[T.continuous]",1.116,0.317,3.523,0.000,0.495,1.737
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:C(levels)[T.continuous]",0.911,0.317,2.875,0.004,0.290,1.532
+logm,1.842,0.170,10.843,0.000,1.509,2.175
+"C(label, Treatment(""RandomSearch""))[T.BRA]:logm",-1.924,0.177,-10.898,0.000,-2.270,-1.578
+"C(label, Treatment(""RandomSearch""))[T.DE]:logm",0.141,0.177,0.798,0.425,-0.205,0.487
+"C(label, Treatment(""RandomSearch""))[T.GOA]:logm",-0.208,0.177,-1.177,0.239,-0.554,0.138
+"C(label, Treatment(""RandomSearch""))[T.HHO]:logm",-0.163,0.177,-0.923,0.356,-0.509,0.183
+"C(label, Treatment(""RandomSearch""))[T.ILS]:logm",-0.775,0.177,-4.392,0.000,-1.121,-0.429
+"C(label, Treatment(""RandomSearch""))[T.PSO]:logm",-0.023,0.177,-0.130,0.896,-0.369,0.323
+"C(label, Treatment(""RandomSearch""))[T.RA]:logm",-1.117,0.177,-6.326,0.000,-1.463,-0.771
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:logm",-0.222,0.177,-1.260,0.208,-0.568,0.124
+frac,4.698,0.786,5.977,0.000,3.157,6.238
+"C(label, Treatment(""RandomSearch""))[T.BRA]:frac",-3.489,0.817,-4.271,0.000,-5.090,-1.888
+"C(label, Treatment(""RandomSearch""))[T.DE]:frac",0.238,0.817,0.291,0.771,-1.363,1.839
+"C(label, Treatment(""RandomSearch""))[T.GOA]:frac",-0.325,0.817,-0.398,0.691,-1.926,1.276
+"C(label, Treatment(""RandomSearch""))[T.HHO]:frac",-0.240,0.817,-0.293,0.769,-1.841,1.362
+"C(label, Treatment(""RandomSearch""))[T.ILS]:frac",-1.379,0.817,-1.688,0.091,-2.980,0.222
+"C(label, Treatment(""RandomSearch""))[T.PSO]:frac",-0.137,0.817,-0.168,0.867,-1.738,1.464
+"C(label, Treatment(""RandomSearch""))[T.RA]:frac",-2.766,0.817,-3.387,0.001,-4.367,-1.165
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:frac",0.117,0.817,0.143,0.887,-1.484,1.718
+Group Var,0.500,0.121,,,,

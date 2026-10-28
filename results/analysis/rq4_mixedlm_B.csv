@@ -1,0 +1,44 @@
+,Coef.,Std.Err.,z,P>|z|,[0.025,0.975]
+Intercept,-9.012,0.731,-12.331,0.000,-10.444,-7.579
+"C(label, Treatment(""RandomSearch""))[T.DE]",-1.314,0.775,-1.695,0.090,-2.834,0.206
+"C(label, Treatment(""RandomSearch""))[T.GOA]",0.823,0.775,1.062,0.288,-0.696,2.343
+"C(label, Treatment(""RandomSearch""))[T.HHO]",0.587,0.775,0.757,0.449,-0.933,2.106
+"C(label, Treatment(""RandomSearch""))[T.ILS]",-2.263,0.775,-2.919,0.004,-3.783,-0.744
+"C(label, Treatment(""RandomSearch""))[T.PSO]",-0.370,0.775,-0.477,0.634,-1.889,1.150
+"C(label, Treatment(""RandomSearch""))[T.RKGA]",-0.653,0.775,-0.842,0.400,-2.172,0.867
+"C(label, Treatment(""RandomSearch""))[T.RRG]",5.346,0.775,6.896,0.000,3.827,6.866
+C(levels)[T.3],0.693,0.306,2.266,0.023,0.094,1.293
+C(levels)[T.continuous],0.845,0.306,2.763,0.006,0.245,1.444
+C(kind)[T.rect],-0.448,0.190,-2.352,0.019,-0.821,-0.075
+C(kind)[T.scatter],-0.010,0.190,-0.051,0.960,-0.383,0.363
+"C(label, Treatment(""RandomSearch""))[T.DE]:C(levels)[T.3]",0.576,0.328,1.754,0.079,-0.068,1.219
+"C(label, Treatment(""RandomSearch""))[T.GOA]:C(levels)[T.3]",0.187,0.328,0.568,0.570,-0.457,0.830
+"C(label, Treatment(""RandomSearch""))[T.HHO]:C(levels)[T.3]",-0.071,0.328,-0.216,0.829,-0.714,0.573
+"C(label, Treatment(""RandomSearch""))[T.ILS]:C(levels)[T.3]",0.322,0.328,0.981,0.327,-0.321,0.965
+"C(label, Treatment(""RandomSearch""))[T.PSO]:C(levels)[T.3]",-0.322,0.328,-0.980,0.327,-0.965,0.322
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:C(levels)[T.3]",0.902,0.328,2.747,0.006,0.258,1.545
+"C(label, Treatment(""RandomSearch""))[T.RRG]:C(levels)[T.3]",-0.714,0.328,-2.176,0.030,-1.357,-0.071
+"C(label, Treatment(""RandomSearch""))[T.DE]:C(levels)[T.continuous]",0.676,0.328,2.060,0.039,0.033,1.319
+"C(label, Treatment(""RandomSearch""))[T.GOA]:C(levels)[T.continuous]",0.349,0.328,1.064,0.287,-0.294,0.992
+"C(label, Treatment(""RandomSearch""))[T.HHO]:C(levels)[T.continuous]",0.048,0.328,0.147,0.883,-0.595,0.692
+"C(label, Treatment(""RandomSearch""))[T.ILS]:C(levels)[T.continuous]",0.673,0.328,2.049,0.040,0.029,1.316
+"C(label, Treatment(""RandomSearch""))[T.PSO]:C(levels)[T.continuous]",-0.069,0.328,-0.210,0.833,-0.712,0.574
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:C(levels)[T.continuous]",1.438,0.328,4.382,0.000,0.795,2.081
+"C(label, Treatment(""RandomSearch""))[T.RRG]:C(levels)[T.continuous]",-0.128,0.328,-0.389,0.698,-0.771,0.516
+logm,1.794,0.170,10.530,0.000,1.460,2.128
+"C(label, Treatment(""RandomSearch""))[T.DE]:logm",0.058,0.183,0.317,0.751,-0.300,0.416
+"C(label, Treatment(""RandomSearch""))[T.GOA]:logm",-0.272,0.183,-1.489,0.136,-0.631,0.086
+"C(label, Treatment(""RandomSearch""))[T.HHO]:logm",-0.167,0.183,-0.911,0.362,-0.525,0.192
+"C(label, Treatment(""RandomSearch""))[T.ILS]:logm",0.078,0.183,0.427,0.669,-0.280,0.437
+"C(label, Treatment(""RandomSearch""))[T.PSO]:logm",-0.015,0.183,-0.080,0.936,-0.373,0.344
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:logm",-0.420,0.183,-2.299,0.022,-0.779,-0.062
+"C(label, Treatment(""RandomSearch""))[T.RRG]:logm",-1.860,0.183,-10.173,0.000,-2.219,-1.502
+frac,4.589,0.789,5.820,0.000,3.044,6.135
+"C(label, Treatment(""RandomSearch""))[T.DE]:frac",0.163,0.846,0.193,0.847,-1.495,1.822
+"C(label, Treatment(""RandomSearch""))[T.GOA]:frac",-0.402,0.846,-0.475,0.634,-2.061,1.256
+"C(label, Treatment(""RandomSearch""))[T.HHO]:frac",-0.234,0.846,-0.276,0.782,-1.892,1.425
+"C(label, Treatment(""RandomSearch""))[T.ILS]:frac",-0.113,0.846,-0.133,0.894,-1.771,1.546
+"C(label, Treatment(""RandomSearch""))[T.PSO]:frac",0.285,0.846,0.336,0.737,-1.374,1.943
+"C(label, Treatment(""RandomSearch""))[T.RKGA]:frac",0.769,0.846,0.909,0.364,-0.890,2.427
+"C(label, Treatment(""RandomSearch""))[T.RRG]:frac",-4.328,0.846,-5.114,0.000,-5.986,-2.669
+Group Var,0.465,0.113,,,,

@@ -1,0 +1,23 @@
+{
+ "started": "2026-10-28T08:42:58",
+ "os": "Windows-10-10.0.26300-SP0",
+ "python": "3.11.5",
+ "processor": "Intel64 Family 6 Model 191 Stepping 2, GenuineIntel",
+ "cpu_count": 16,
+ "args": {
+  "mode": "full",
+  "time_limit": 600.0,
+  "procs": 0,
+  "threads": 0,
+  "all_instances": false,
+  "limit": 0
+ },
+ "versions": {
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "pandas": "3.1.0",
+  "ortools": "9.15.6755",
+  "pvlib": "0.16.1"
+ },
+ "ram_gb": 7.7
+}

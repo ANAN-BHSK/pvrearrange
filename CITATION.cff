@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "pvrearrange: matrix rearrangement methods for photovoltaic array reconfiguration"
+authors:
+  - family-names: Banharnsakun
+    given-names: Anan
+    affiliation: "Computational Intelligence Research Laboratory (CIRLab), Kasetsart University Sriracha Campus"
+    email: anan@eng.src.ku.ac.th
+repository-code: "https://github.com/ANAN-BHSK/pvrearrange"
+license: MIT
+date-released: 2026-10-28
+version: 1.0.0
+preferred-citation:
+  type: article
+  title: "Exploiting matrix rearrangement structure in photovoltaic array reconfiguration under partial shading"
+  authors:
+    - family-names: Banharnsakun
+      given-names: Anan
+  journal: "Computers & Operations Research"
+  year: 2026
+  notes: "Submitted"

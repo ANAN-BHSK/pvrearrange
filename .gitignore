@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tmp
+pv_results_*.zip
+results/run_all.log
+results/log_*.txt
+results/machine_info.json
+results/tests_output.txt
